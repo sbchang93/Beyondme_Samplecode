@@ -4,4 +4,9 @@
 
 * 비디오, 동영상 촬영
 
+adb shell screenrecord /sdcard/mobileway_wallet_03.mp4
+
+
+
+
 
