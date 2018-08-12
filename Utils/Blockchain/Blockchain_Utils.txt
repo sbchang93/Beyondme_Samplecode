@@ -1,0 +1,11 @@
+
+
+* Geth 설치 화일
+  : geth-windows-amd64-1.8.11-dea1ce05.exe
+    ( https://gethstore.blob.core.windows.net/builds/geth-windows-amd64-1.8.11-dea1ce05.exe )
+    
+* Mist 설치 화일
+  : Mist-installer-0-10-0.exe
+    ( https://github.com/ethereum/mist/releases )
+    ( 설치만 하면 "C:\Program Files\Mist" 가 생성됨. )  
+  : Ethereum-Wallet-installer-0-10-0.exe
